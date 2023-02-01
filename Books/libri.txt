@@ -1,0 +1,2 @@
+Book [titolo=Il signore degli anelli, numeroPagine=400, autore=Tolkien, editore=Mondadori]
+Book [titolo=La torre nera, numeroPagine=600, autore=S.King, editore=Bompiani]
